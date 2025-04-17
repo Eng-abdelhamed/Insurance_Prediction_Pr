@@ -2,7 +2,7 @@
 
 This project is a **Machine Learning-based web application** built using **Streamlit** to predict medical insurance costs based on user input. It allows users to input personal and medical information and receive an estimated insurance charge instantly.
 
-## 📌 Features
+## Main Features
 
 - Predicts insurance cost based on:
   - Age
@@ -17,12 +17,12 @@ This project is a **Machine Learning-based web application** built using **Strea
 
 ##  Machine Learning Model
 
-- **Algorithm Used:** Linear Regression 
+- **Algorithm Used:** Linear Regression , OneHotEncoding , LogTransform
 - **Target Variable:** `charges`
 - **Evaluation Metrics:** MAE, RMSE, R² Score (adjust based on your project)
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 
