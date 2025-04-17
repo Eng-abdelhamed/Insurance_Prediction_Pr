@@ -29,7 +29,9 @@ This project is a **Machine Learning-based web application** built using **Strea
 ```bash
 git clone https://github.com/Eng-abdelhamed/insurance-cost-prediction.git
 cd insurance-cost-prediction
-You have also to run the Streamlit Source Code
+```
+```python
+# You have also to run the Streamlit Source Code
 streamlit run app.py
 ```
 
