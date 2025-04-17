@@ -38,5 +38,5 @@ insurance-cost-prediction/
 ├── model.pkl               # Trained ML model
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-└── dataset.csv             # Dataset (optional)
+└── insurance.csv           # Dataset (optional)
 ```
